@@ -1,16 +1,19 @@
 # Eventi
+    
+- leggi prima le [proposte in ordine di priorita'][2];
 
-- [Crea una issue][1] per proporre un argomento per uno dei prossimi incontri del PUG Romagna.
+- [proponi un argomento][1] aprendo una issue per uno dei prossimi incontri del PUG Romagna;
 
-- Descrivi l'argomento (esempio: "Symfony4") indicandolo nel titolo.
+- indica l'argomento (esempio: "Symfony4") nel titolo della issue;
 
-- Gli argomenti devono essere strettamente legati a PHP: framework, componenti, librerie, ...
+- l'argomento deve essere strettamente legato a PHP: framework, componenti, librerie;
 
-- Se ti interessa un argomento proposto e vuoi votarlo, fai un `+1` aggiungendo una reazione.
+- se ti interessa uno degli argomenti proposti e vuoi votarlo, fai un `+1` aggiungendo una reazione;
 
-- Eventualmente aggiungi un commento con suggerimenti o incoraggiare l'autore della proposta.
+- eventualmente aggiungi un commento con suggerimenti o incoraggiare l'autore della proposta;
 
-- Le label verranno usate per indicare lo stato del ticket (es: "proposta",
-    "programmato", "svolto", "speaker cercasi", eccetera).
+- le label verranno usate per indicare lo stato del ticket (es: "proposta",
+    "programmato", "svolto", "speaker cercasi", eccetera);
 
 [1]: https://github.com/pugromagna/eventi/issues/new
+[2]: https://github.com/pugromagna/eventi/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc
