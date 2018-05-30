@@ -15,5 +15,10 @@
 - le label verranno usate per indicare lo stato del ticket (es: "proposta",
     "programmato", "svolto", "speaker cercasi", eccetera);
 
+## Credits
+
+Ringraziamo il [DEV Romagna][3] per aver ispirato questo repository
+
+[3]: https://github.com/DevRomagna/eventi
 [1]: https://github.com/pugromagna/eventi/issues/new
 [2]: https://github.com/pugromagna/eventi/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc
